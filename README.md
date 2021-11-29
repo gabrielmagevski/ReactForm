@@ -13,7 +13,7 @@ Tecnologias utilizadas:
 
 Preview: 
 <div>
-  <img width="300px" src="https://github.com/gabrielmagevski/ReactForm/blob/main/src/readme/1.png" alt="imagem 1" />
-  <img width="300px" src="https://github.com/gabrielmagevski/ReactForm/blob/main/src/readme/2.png" alt="imagem 2" />
-  <img width="300px" src="https://github.com/gabrielmagevski/ReactForm/blob/main/src/readme/3.png" alt="imagem 3" />
+  <img width="250px" src="https://github.com/gabrielmagevski/ReactForm/blob/main/src/readme/1.png" alt="imagem 1" />
+  <img width="250px" src="https://github.com/gabrielmagevski/ReactForm/blob/main/src/readme/2.png" alt="imagem 2" />
+  <img width="250px" src="https://github.com/gabrielmagevski/ReactForm/blob/main/src/readme/3.png" alt="imagem 3" />
 </div>
