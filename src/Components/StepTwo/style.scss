@@ -1,0 +1,56 @@
+#stepTwo {
+
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+
+    margin: 50px 100px;
+
+    .form {
+        padding-top: 20px;
+
+        display: flex;
+        align-items: center;
+        flex-direction: column;
+        justify-content: center;
+    
+        input {
+            background: rgb(243, 243, 243);
+            border: 1px solid #FFF;
+            border-radius: 5px;
+
+            padding: 15px;
+            margin: 5px;
+        }
+
+        .error { 
+            color: #d30318;
+            font-size: 15px
+        }
+    }
+
+
+    .button {
+        background-color: #D62839;
+        color: #FFF;
+        border: 1px solid #BA324F;
+        border-radius: 5px;
+
+        padding: 10px 20px;
+        margin-top: 25px;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+
+        font-size: 15px;
+        transition: filter 0.2s;
+        cursor: pointer;
+   
+        &:hover{
+            filter: brightness(0.9);
+        }
+    }
+
+
+}
